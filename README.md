@@ -1,2 +1,2 @@
-# Static Site Ggenerator
+# Static Site Generator
 A static site.
